@@ -1,6 +1,6 @@
 <h3 align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=LUISON_Github! there 👋&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=LUISON_Github!👋&fontSize=90)
 
 </h3>
 
