@@ -15,9 +15,9 @@
    <img src="https://img.shields.io/badge/Styled Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><br/>
-  <img src="https://img.shields.io/badge/#FF4154-#5A0EF8?style=for-the-badge&logo=daisyUI&logoColor=white">
-  <img src="https://img.shields.io/badge/tailwind CSS-#06B6D4?style=for-the-badge&logo=tailwind CSS&logoColor=white">
-  <img src="https://img.shields.io/badge/Recoil-#3578E5?style=for-the-badge&logo=Recoil&logoColor=white">
+  <img src="https://img.shields.io/badge/daisyui-#5A0EF8?style=for-the-badge&logo=daisyUI&logoColor=white">
+  <img src="https://img.shields.io/badge/tailwindcss-#06B6D4?style=for-the-badge&logo=tailwind CSS&logoColor=white">
+  <img src="https://img.shields.io/badge/recoil-#3578E5?style=for-the-badge&logo=Recoil&logoColor=white">
   <img src="https://img.shields.io/badge/reactquery-#FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
  </p>
   <h3 align="center">✨ My GitHub Stats ✨</h3>
