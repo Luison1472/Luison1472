@@ -28,6 +28,7 @@
 </div>
 <h3 align="center">🚀 My Blog 🚀</h3>
 <p align="center">
-<a href="https://blog.naver.com/mingcoding"><img src="https://img.shields.io/badge/N-naverBlog%20-%20naverblog" target="_blank" />
+<a href="https://blog.naver.com/mingcoding" target="_blank"><img src="https://img.shields.io/badge/N-naverBlog%20-%20naverblog" /></a>
+
 </a>
 </p>
